@@ -33,3 +33,8 @@ extracted from text.
 - V_{i} : word / sentence / etc.
 
 - w_{ij} : lexical or semantic relations / contextual overlap / etc.
+
+from 'TextRank: Bringing Order into Texts' 
+by Rada Mihalcea and Paul Tarau
+Department of Computer Science
+University of North Texas
